@@ -2,7 +2,7 @@
 
 I'm Amirhossein Ramazani. I'm currently a master student at Sharif University Of Technology. I work on speech separation algorithms under the supervision of Prof. Motahrai. Also, I'm interested in and enthusiastic about Natural Language Processing.
 
-These are the ways that you can find me : [Email](mailto:ramazani.amirhossein@gmail.com), [Skype](live:ramazani.amirhossein), [Linkedin](https://www.linkedin.com/in/amirhossein-ramazani/),
+These are the ways that you can find me : [Email](mailto:ramazani.amirhossein@gmail.com), [Linkedin](https://www.linkedin.com/in/amirhossein-ramazani/),
 
 📈 My github stats
 
